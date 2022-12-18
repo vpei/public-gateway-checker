@@ -1,5 +1,5 @@
 import { TagStatus } from './TagStatus';
-declare type TagClasses = 'Status' | 'Node' | 'Cors' | 'Origin' | 'Flag';
+declare type TagClasses = 'Cors' | 'Flag' | 'Ipns' | 'Node' | 'Origin' | 'Status' | 'Trustless';
 declare type TagContent = TagStatus;
 declare class Tag {
     element: HTMLElement;
