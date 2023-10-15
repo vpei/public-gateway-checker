@@ -1,19 +1,20 @@
 import fetchPonyfill from 'fetch-ponyfill';
 import { CheckBase } from './CheckBase';
-import { HASH_TO_TEST, TRUSTLESS_RESPONSE_TYPES } from './constants';
 import { Log } from './Log';
+import { HASH_TO_TEST, TRUSTLESS_RESPONSE_TYPES } from './constants';
 const { fetch } = fetchPonyfill();
 const log = new Log('Trustless');
 class Trustless extends CheckBase {
+    parent;
+    _className = 'Trustless';
+    _tagName = 'div';
     constructor(parent) {
         super(parent, 'div', 'Trustless');
         this.parent = parent;
-        this._className = 'Trustless';
-        this._tagName = 'div';
     }
     async check() {
         const now = Date.now();
-        const gatewayAndHash = this.parent.gateway.replace(':hash', HASH_TO_TEST);
+        const gatewayAndHash = `${this.parent.gateway}/ipfs/${HASH_TO_TEST}`;
         this.parent.tag.classList.add('trustless');
         try {
             const trustlessResponseTypesTests = await Promise.all(TRUSTLESS_RESPONSE_TYPES.map(async (trustlessTypes) => {

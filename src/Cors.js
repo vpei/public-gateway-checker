@@ -1,19 +1,20 @@
 import fetchPonyfill from 'fetch-ponyfill';
 import { CheckBase } from './CheckBase';
-import { HASH_STRING, HASH_TO_TEST } from './constants';
 import { Log } from './Log';
+import { HASH_STRING, HASH_TO_TEST } from './constants';
 const { fetch } = fetchPonyfill();
 const log = new Log('Cors');
 class Cors extends CheckBase {
+    parent;
+    _className = 'Cors';
+    _tagName = 'div';
     constructor(parent) {
         super(parent, 'div', 'Cors');
         this.parent = parent;
-        this._className = 'Cors';
-        this._tagName = 'div';
     }
     async check() {
         const now = Date.now();
-        const gatewayAndHash = this.parent.gateway.replace(':hash', HASH_TO_TEST);
+        const gatewayAndHash = `${this.parent.gateway}/ipfs/${HASH_TO_TEST}`;
         const testUrl = `${gatewayAndHash}?now=${now}#x-ipfs-companion-no-redirect`;
         // response body can be accessed only if fetch was executed when
         // liberal CORS is present (eg. '*')

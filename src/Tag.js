@@ -1,5 +1,6 @@
 import { TagStatus } from './TagStatus';
 class Tag {
+    element;
     constructor(tagName = 'div', className = undefined, textContent = TagStatus.pending) {
         const element = document.createElement(tagName);
         this.element = element;
@@ -52,7 +53,7 @@ class Tag {
         if (child instanceof Tag) {
             child = child.element;
         }
-        return this.element.append(child);
+        this.element.append(child);
     }
     get classList() {
         return this.element.classList;

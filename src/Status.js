@@ -1,15 +1,16 @@
 import { URL } from 'url-ponyfill';
-import { UiComponent } from './UiComponent';
 import { Log } from './Log';
+import { UiComponent } from './UiComponent';
 import { checkViaImgSrc } from './checkViaImgSrc';
 import { IMG_HASH } from './constants';
 const log = new Log('Status');
 class Status extends UiComponent {
+    parent;
+    _up = false;
+    _down = false;
     constructor(parent) {
         super(parent, 'div', 'Status');
         this.parent = parent;
-        this._up = false;
-        this._down = false;
     }
     async check() {
         // test by loading subresource via img.src (path will work on both old and subdomain gws)
