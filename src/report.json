@@ -1,9 +1,9 @@
 {
   "https://4everland.io": {
     "metadata": {
-      "time": "2023-09-29T17:55:19.752949005Z",
+      "time": "2023-10-15T09:09:40.056636047Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://4everland.io"
     },
     "results": {
@@ -26,9 +26,9 @@
   },
   "https://alexdav.id": {
     "metadata": {
-      "time": "2023-09-29T17:55:09.114150396Z",
+      "time": "2023-10-15T09:09:48.409430269Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://alexdav.id"
     },
     "results": {
@@ -54,7 +54,7 @@
       },
       "Others": {
         "pass": 0,
-        "fail": 4,
+        "fail": 6,
         "skip": 0
       },
       "Block-CAR": {
@@ -81,9 +81,9 @@
   },
   "https://aragon.ventures": {
     "metadata": {
-      "time": "2023-09-29T17:55:14.783844289Z",
+      "time": "2023-10-15T09:09:35.207161675Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://aragon.ventures"
     },
     "results": {
@@ -106,9 +106,9 @@
   },
   "https://astyanax.io": {
     "metadata": {
-      "time": "2023-09-29T17:55:06.898159424Z",
+      "time": "2023-10-15T09:09:39.941713177Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://astyanax.io"
     },
     "results": {
@@ -131,9 +131,9 @@
   },
   "https://cdn.cwinfo.net": {
     "metadata": {
-      "time": "2023-09-29T17:55:35.637292042Z",
+      "time": "2023-10-15T09:10:07.232347954Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://cdn.cwinfo.net"
     },
     "results": {
@@ -156,9 +156,9 @@
   },
   "https://cf-ipfs.com": {
     "metadata": {
-      "time": "2023-09-29T17:55:11.318041177Z",
+      "time": "2023-10-15T09:09:42.796747011Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://cf-ipfs.com"
     },
     "results": {
@@ -181,9 +181,9 @@
   },
   "https://cloudflare-ipfs.com": {
     "metadata": {
-      "time": "2023-09-29T17:55:08.23685106Z",
+      "time": "2023-10-15T09:09:43.551113274Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://cloudflare-ipfs.com"
     },
     "results": {
@@ -206,9 +206,9 @@
   },
   "https://cthd.icu": {
     "metadata": {
-      "time": "2023-09-29T17:55:16.690394754Z",
+      "time": "2023-10-15T09:09:39.81269915Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://cthd.icu"
     },
     "results": {
@@ -231,9 +231,9 @@
   },
   "https://dweb.eu.org": {
     "metadata": {
-      "time": "2023-09-29T17:55:27.905098698Z",
+      "time": "2023-10-15T09:09:54.463645857Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://dweb.eu.org"
     },
     "results": {
@@ -256,9 +256,9 @@
   },
   "https://dweb.link": {
     "metadata": {
-      "time": "2023-09-29T17:55:10.826465067Z",
+      "time": "2023-10-15T09:09:35.089607448Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://dweb.link"
     },
     "results": {
@@ -281,9 +281,9 @@
   },
   "http://fzdqwfb5ml56oadins5jpuhe6ki6bk33umri35p5kt2tue4fpws5efid.onion": {
     "metadata": {
-      "time": "2023-09-29T17:55:07.991977199Z",
+      "time": "2023-10-15T09:09:44.783189226Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "http://fzdqwfb5ml56oadins5jpuhe6ki6bk33umri35p5kt2tue4fpws5efid.onion"
     },
     "results": {
@@ -309,7 +309,7 @@
       },
       "Others": {
         "pass": 0,
-        "fail": 4,
+        "fail": 6,
         "skip": 0
       },
       "Block-CAR": {
@@ -336,9 +336,9 @@
   },
   "https://gateway.ipfs.io": {
     "metadata": {
-      "time": "2023-09-29T17:57:05.911365758Z",
+      "time": "2023-10-15T09:11:44.992513916Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://gateway.ipfs.io"
     },
     "results": {
@@ -358,11 +358,6 @@
         "skip": 0
       },
       "IPNS": {
-        "pass": 1,
-        "fail": 0,
-        "skip": 0
-      },
-      "Others": {
         "pass": 0,
         "fail": 1,
         "skip": 0
@@ -371,9 +366,9 @@
   },
   "https://gateway.originprotocol.com": {
     "metadata": {
-      "time": "2023-09-29T17:55:13.428070477Z",
+      "time": "2023-10-15T09:09:43.726124078Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://gateway.originprotocol.com"
     },
     "results": {
@@ -399,7 +394,7 @@
       },
       "Others": {
         "pass": 0,
-        "fail": 4,
+        "fail": 6,
         "skip": 0
       },
       "Block-CAR": {
@@ -426,9 +421,9 @@
   },
   "https://gateway.pinata.cloud": {
     "metadata": {
-      "time": "2023-09-29T17:55:15.894120094Z",
+      "time": "2023-10-15T09:10:34.136724701Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://gateway.pinata.cloud"
     },
     "results": {
@@ -443,17 +438,17 @@
         "skip": 0
       },
       "JSON-CBOR": {
-        "pass": 2,
-        "fail": 2,
+        "pass": 1,
+        "fail": 3,
         "skip": 0
       }
     }
   },
   "https://gravity.jup.io": {
     "metadata": {
-      "time": "2023-09-29T17:55:50.008993898Z",
+      "time": "2023-10-15T09:11:03.29578021Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://gravity.jup.io"
     },
     "results": {
@@ -479,7 +474,7 @@
       },
       "Others": {
         "pass": 0,
-        "fail": 4,
+        "fail": 6,
         "skip": 0
       },
       "Block-CAR": {
@@ -506,9 +501,9 @@
   },
   "https://gw3.io": {
     "metadata": {
-      "time": "2023-09-29T17:55:47.140769482Z",
+      "time": "2023-10-15T09:11:31.964556104Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://gw3.io"
     },
     "results": {
@@ -534,7 +529,7 @@
       },
       "Others": {
         "pass": 0,
-        "fail": 4,
+        "fail": 6,
         "skip": 0
       },
       "Block-CAR": {
@@ -559,66 +554,11 @@
       }
     }
   },
-  "https://hardbin.com": {
-    "metadata": {
-      "time": "2023-09-29T18:03:08.159509647Z",
-      "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
-      "gateway_url": "https://hardbin.com"
-    },
-    "results": {
-      "DNSLink": {
-        "pass": 0,
-        "fail": 2,
-        "skip": 0
-      },
-      "CORS": {
-        "pass": 0,
-        "fail": 1,
-        "skip": 0
-      },
-      "JSON-CBOR": {
-        "pass": 3,
-        "fail": 2,
-        "skip": 0
-      },
-      "IPNS": {
-        "pass": 2,
-        "fail": 2,
-        "skip": 0
-      },
-      "Others": {
-        "pass": 1,
-        "fail": 3,
-        "skip": 0
-      },
-      "Block-CAR": {
-        "pass": 3,
-        "fail": 6,
-        "skip": 0
-      },
-      "Tar": {
-        "pass": 1,
-        "fail": 0,
-        "skip": 0
-      },
-      "UnixFS": {
-        "pass": 1,
-        "fail": 2,
-        "skip": 0
-      },
-      "Subdomains": {
-        "pass": 0,
-        "fail": 3,
-        "skip": 0
-      }
-    }
-  },
   "https://hashnews.k1ic.com": {
     "metadata": {
-      "time": "2023-09-29T17:58:19.536164823Z",
+      "time": "2023-10-15T09:12:53.168437258Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://hashnews.k1ic.com"
     },
     "results": {
@@ -644,7 +584,7 @@
       },
       "Others": {
         "pass": 0,
-        "fail": 4,
+        "fail": 6,
         "skip": 0
       },
       "Block-CAR": {
@@ -671,10 +611,35 @@
   },
   "https://hub.textile.io": {
     "metadata": {
-      "time": "2023-09-29T17:56:35.827533398Z",
+      "time": "2023-10-15T09:10:57.644569517Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://hub.textile.io"
+    },
+    "results": {
+      "DNSLink": {
+        "pass": 0,
+        "fail": 1,
+        "skip": 0
+      },
+      "CORS": {
+        "pass": 0,
+        "fail": 1,
+        "skip": 0
+      },
+      "JSON-CBOR": {
+        "pass": 0,
+        "fail": 3,
+        "skip": 0
+      }
+    }
+  },
+  "https://ipfs.1-2.dev": {
+    "metadata": {
+      "time": "2023-10-15T09:11:01.773614663Z",
+      "version": "dev",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
+      "gateway_url": "https://ipfs.1-2.dev"
     },
     "results": {
       "DNSLink": {
@@ -696,9 +661,9 @@
   },
   "https://ipfs.alloyxuast.tk": {
     "metadata": {
-      "time": "2023-09-29T17:56:36.52321357Z",
+      "time": "2023-10-15T09:11:02.728146244Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://ipfs.alloyxuast.tk"
     },
     "results": {
@@ -724,7 +689,7 @@
       },
       "Others": {
         "pass": 0,
-        "fail": 4,
+        "fail": 6,
         "skip": 0
       },
       "Block-CAR": {
@@ -751,9 +716,9 @@
   },
   "https://ipfs.best-practice.se": {
     "metadata": {
-      "time": "2023-09-29T17:56:29.038260674Z",
+      "time": "2023-10-15T09:11:15.86815066Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://ipfs.best-practice.se"
     },
     "results": {
@@ -776,9 +741,9 @@
   },
   "https://ipfs.busy.org": {
     "metadata": {
-      "time": "2023-09-29T17:56:29.803398567Z",
+      "time": "2023-10-15T09:11:11.067957228Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://ipfs.busy.org"
     },
     "results": {
@@ -804,7 +769,7 @@
       },
       "Others": {
         "pass": 0,
-        "fail": 4,
+        "fail": 6,
         "skip": 0
       },
       "Block-CAR": {
@@ -831,9 +796,9 @@
   },
   "https://ipfs.chisdealhd.co.uk": {
     "metadata": {
-      "time": "2023-09-29T17:56:41.860554856Z",
+      "time": "2023-10-15T09:11:14.460606298Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://ipfs.chisdealhd.co.uk"
     },
     "results": {
@@ -856,9 +821,9 @@
   },
   "https://ipfs.decoo.io": {
     "metadata": {
-      "time": "2023-09-29T18:04:44.701013049Z",
+      "time": "2023-10-15T09:13:45.816166222Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://ipfs.decoo.io"
     },
     "results": {
@@ -879,17 +844,17 @@
       },
       "IPNS": {
         "pass": 0,
-        "fail": 3,
+        "fail": 4,
         "skip": 0
       },
       "Others": {
         "pass": 0,
-        "fail": 4,
+        "fail": 6,
         "skip": 0
       },
       "Block-CAR": {
         "pass": 0,
-        "fail": 1,
+        "fail": 9,
         "skip": 0
       },
       "Tar": {
@@ -904,16 +869,16 @@
       },
       "Subdomains": {
         "pass": 0,
-        "fail": 2,
+        "fail": 3,
         "skip": 0
       }
     }
   },
   "https://ipfs.drink.cafe": {
     "metadata": {
-      "time": "2023-09-29T17:57:28.050283996Z",
+      "time": "2023-10-15T09:12:19.321123155Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://ipfs.drink.cafe"
     },
     "results": {
@@ -939,7 +904,7 @@
       },
       "Others": {
         "pass": 0,
-        "fail": 4,
+        "fail": 6,
         "skip": 0
       },
       "Block-CAR": {
@@ -966,15 +931,15 @@
   },
   "https://ipfs.eth.aragon.network": {
     "metadata": {
-      "time": "2023-09-29T18:00:08.794858719Z",
+      "time": "2023-10-15T09:14:18.519314818Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://ipfs.eth.aragon.network"
     },
     "results": {
       "DNSLink": {
         "pass": 0,
-        "fail": 2,
+        "fail": 1,
         "skip": 0
       },
       "CORS": {
@@ -983,47 +948,17 @@
         "skip": 0
       },
       "JSON-CBOR": {
-        "pass": 5,
-        "fail": 0,
-        "skip": 0
-      },
-      "IPNS": {
         "pass": 0,
-        "fail": 3,
-        "skip": 0
-      },
-      "Others": {
-        "pass": 2,
-        "fail": 2,
-        "skip": 0
-      },
-      "Block-CAR": {
-        "pass": 1,
-        "fail": 5,
-        "skip": 0
-      },
-      "Tar": {
-        "pass": 1,
-        "fail": 0,
-        "skip": 0
-      },
-      "UnixFS": {
-        "pass": 2,
         "fail": 1,
-        "skip": 0
-      },
-      "Subdomains": {
-        "pass": 0,
-        "fail": 3,
         "skip": 0
       }
     }
   },
   "https://ipfs.fleek.co": {
     "metadata": {
-      "time": "2023-09-29T17:57:06.665977655Z",
+      "time": "2023-10-15T09:12:28.35755475Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://ipfs.fleek.co"
     },
     "results": {
@@ -1046,9 +981,9 @@
   },
   "https://ipfs.fooock.com": {
     "metadata": {
-      "time": "2023-09-29T17:57:12.700148952Z",
+      "time": "2023-10-15T09:12:19.48747602Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://ipfs.fooock.com"
     },
     "results": {
@@ -1071,9 +1006,9 @@
   },
   "https://ipfs.funnychain.co": {
     "metadata": {
-      "time": "2023-09-29T17:57:53.767017353Z",
+      "time": "2023-10-15T09:13:01.430869204Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://ipfs.funnychain.co"
     },
     "results": {
@@ -1096,9 +1031,9 @@
   },
   "https://ipfs-gateway.cloud": {
     "metadata": {
-      "time": "2023-09-29T18:02:03.930410838Z",
+      "time": "2023-10-15T09:16:56.344656522Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://ipfs-gateway.cloud"
     },
     "results": {
@@ -1121,9 +1056,9 @@
   },
   "http://ipfs.genenetwork.org": {
     "metadata": {
-      "time": "2023-09-29T17:55:11.22141793Z",
+      "time": "2023-10-15T09:09:49.894354345Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "http://ipfs.genenetwork.org"
     },
     "results": {
@@ -1146,9 +1081,9 @@
   },
   "https://ipfs.greyh.at": {
     "metadata": {
-      "time": "2023-09-29T17:57:59.709310238Z",
+      "time": "2023-10-15T09:12:33.062796096Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://ipfs.greyh.at"
     },
     "results": {
@@ -1171,9 +1106,9 @@
   },
   "https://ipfs.ink": {
     "metadata": {
-      "time": "2023-09-29T17:58:05.891824689Z",
+      "time": "2023-10-15T09:12:33.697790853Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://ipfs.ink"
     },
     "results": {
@@ -1196,9 +1131,9 @@
   },
   "https://ipfs.io": {
     "metadata": {
-      "time": "2023-09-29T17:59:57.033494762Z",
+      "time": "2023-10-15T09:14:33.442426064Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://ipfs.io"
     },
     "results": {
@@ -1218,11 +1153,6 @@
         "skip": 0
       },
       "IPNS": {
-        "pass": 1,
-        "fail": 0,
-        "skip": 0
-      },
-      "Others": {
         "pass": 0,
         "fail": 1,
         "skip": 0
@@ -1231,9 +1161,9 @@
   },
   "https://ipfs.kaleido.art": {
     "metadata": {
-      "time": "2023-09-29T17:58:25.978997188Z",
+      "time": "2023-10-15T09:13:33.939777221Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://ipfs.kaleido.art"
     },
     "results": {
@@ -1256,9 +1186,9 @@
   },
   "https://ipfs.kavin.rocks": {
     "metadata": {
-      "time": "2023-09-29T17:58:29.211341458Z",
+      "time": "2023-10-15T09:13:43.665209042Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://ipfs.kavin.rocks"
     },
     "results": {
@@ -1281,9 +1211,9 @@
   },
   "https://ipfs.kinematiks.com": {
     "metadata": {
-      "time": "2023-09-29T17:58:50.180123245Z",
+      "time": "2023-10-15T09:13:42.273837478Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://ipfs.kinematiks.com"
     },
     "results": {
@@ -1309,7 +1239,7 @@
       },
       "Others": {
         "pass": 0,
-        "fail": 4,
+        "fail": 6,
         "skip": 0
       },
       "Block-CAR": {
@@ -1336,9 +1266,9 @@
   },
   "https://ipfs.lain.la": {
     "metadata": {
-      "time": "2023-09-29T17:59:13.660052143Z",
+      "time": "2023-10-15T09:14:27.651850638Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://ipfs.lain.la"
     },
     "results": {
@@ -1364,7 +1294,7 @@
       },
       "Others": {
         "pass": 0,
-        "fail": 4,
+        "fail": 6,
         "skip": 0
       },
       "Block-CAR": {
@@ -1391,9 +1321,9 @@
   },
   "https://ipfs.mttk.net": {
     "metadata": {
-      "time": "2023-09-29T17:59:12.171060468Z",
+      "time": "2023-10-15T09:13:48.371619079Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://ipfs.mttk.net"
     },
     "results": {
@@ -1416,9 +1346,9 @@
   },
   "https://ipfs.namebase.io": {
     "metadata": {
-      "time": "2023-09-29T18:04:32.17760521Z",
+      "time": "2023-10-15T09:18:50.819047482Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://ipfs.namebase.io"
     },
     "results": {
@@ -1444,7 +1374,7 @@
       },
       "Others": {
         "pass": 0,
-        "fail": 4,
+        "fail": 6,
         "skip": 0
       },
       "Block-CAR": {
@@ -1471,9 +1401,9 @@
   },
   "https://ipfs.overpi.com": {
     "metadata": {
-      "time": "2023-09-29T17:59:31.380203453Z",
+      "time": "2023-10-15T09:14:09.933015621Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://ipfs.overpi.com"
     },
     "results": {
@@ -1496,9 +1426,9 @@
   },
   "https://ipfs.runfission.com": {
     "metadata": {
-      "time": "2023-09-29T18:07:47.150832051Z",
+      "time": "2023-10-15T09:21:16.438964513Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://ipfs.runfission.com"
     },
     "results": {
@@ -1518,13 +1448,13 @@
         "skip": 0
       },
       "IPNS": {
-        "pass": 2,
-        "fail": 2,
+        "pass": 0,
+        "fail": 4,
         "skip": 0
       },
       "Others": {
-        "pass": 2,
-        "fail": 2,
+        "pass": 3,
+        "fail": 3,
         "skip": 0
       },
       "Block-CAR": {
@@ -1551,9 +1481,9 @@
   },
   "https://ipfs.scalaproject.io": {
     "metadata": {
-      "time": "2023-09-29T17:59:57.71931129Z",
+      "time": "2023-10-15T09:15:02.182259366Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://ipfs.scalaproject.io"
     },
     "results": {
@@ -1576,9 +1506,9 @@
   },
   "https://ipfs.slang.cx": {
     "metadata": {
-      "time": "2023-09-29T18:00:04.433881445Z",
+      "time": "2023-10-15T09:15:05.784769267Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://ipfs.slang.cx"
     },
     "results": {
@@ -1604,7 +1534,7 @@
       },
       "Others": {
         "pass": 0,
-        "fail": 4,
+        "fail": 6,
         "skip": 0
       },
       "Block-CAR": {
@@ -1631,9 +1561,9 @@
   },
   "https://ipfs.smartholdem.io": {
     "metadata": {
-      "time": "2023-09-29T18:00:22.643642844Z",
+      "time": "2023-10-15T09:15:14.931190123Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://ipfs.smartholdem.io"
     },
     "results": {
@@ -1659,7 +1589,7 @@
       },
       "Others": {
         "pass": 0,
-        "fail": 4,
+        "fail": 6,
         "skip": 0
       },
       "Block-CAR": {
@@ -1686,9 +1616,9 @@
   },
   "https://ipfs.soul-network.com": {
     "metadata": {
-      "time": "2023-09-29T18:00:29.802208353Z",
+      "time": "2023-10-15T09:15:10.471528452Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://ipfs.soul-network.com"
     },
     "results": {
@@ -1714,7 +1644,7 @@
       },
       "Others": {
         "pass": 0,
-        "fail": 4,
+        "fail": 6,
         "skip": 0
       },
       "Block-CAR": {
@@ -1741,9 +1671,9 @@
   },
   "https://ipfs.tayfundogdas.me": {
     "metadata": {
-      "time": "2023-09-29T18:00:38.580823934Z",
+      "time": "2023-10-15T09:15:29.24666588Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://ipfs.tayfundogdas.me"
     },
     "results": {
@@ -1769,7 +1699,7 @@
       },
       "Others": {
         "pass": 0,
-        "fail": 4,
+        "fail": 6,
         "skip": 0
       },
       "Block-CAR": {
@@ -1796,9 +1726,9 @@
   },
   "https://ipfs.telos.miami": {
     "metadata": {
-      "time": "2023-09-29T18:00:46.813812181Z",
+      "time": "2023-10-15T09:15:35.695331632Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://ipfs.telos.miami"
     },
     "results": {
@@ -1824,7 +1754,7 @@
       },
       "Others": {
         "pass": 0,
-        "fail": 4,
+        "fail": 6,
         "skip": 0
       },
       "Block-CAR": {
@@ -1851,9 +1781,9 @@
   },
   "https://ipfs.tribecap.co": {
     "metadata": {
-      "time": "2023-09-29T18:01:07.093338311Z",
+      "time": "2023-10-15T09:15:33.609204395Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://ipfs.tribecap.co"
     },
     "results": {
@@ -1879,7 +1809,7 @@
       },
       "Others": {
         "pass": 0,
-        "fail": 4,
+        "fail": 6,
         "skip": 0
       },
       "Block-CAR": {
@@ -1906,9 +1836,9 @@
   },
   "https://ipfs.trusti.id": {
     "metadata": {
-      "time": "2023-09-29T18:01:15.029806848Z",
+      "time": "2023-10-15T09:16:13.204147509Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://ipfs.trusti.id"
     },
     "results": {
@@ -1931,9 +1861,9 @@
   },
   "https://ipfs.uploads.nu": {
     "metadata": {
-      "time": "2023-09-29T18:01:24.278478858Z",
+      "time": "2023-10-15T09:15:50.689149447Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://ipfs.uploads.nu"
     },
     "results": {
@@ -1959,7 +1889,7 @@
       },
       "Others": {
         "pass": 0,
-        "fail": 4,
+        "fail": 6,
         "skip": 0
       },
       "Block-CAR": {
@@ -1986,9 +1916,9 @@
   },
   "https://ipfs.yt": {
     "metadata": {
-      "time": "2023-09-29T18:02:09.057685769Z",
+      "time": "2023-10-15T09:16:29.127790903Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://ipfs.yt"
     },
     "results": {
@@ -2014,7 +1944,7 @@
       },
       "Others": {
         "pass": 0,
-        "fail": 4,
+        "fail": 6,
         "skip": 0
       },
       "Block-CAR": {
@@ -2041,9 +1971,9 @@
   },
   "https://ipfs1.pixura.io": {
     "metadata": {
-      "time": "2023-09-29T18:02:00.463783606Z",
+      "time": "2023-10-15T09:17:00.255606356Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://ipfs1.pixura.io"
     },
     "results": {
@@ -2069,7 +1999,7 @@
       },
       "Others": {
         "pass": 0,
-        "fail": 4,
+        "fail": 6,
         "skip": 0
       },
       "Block-CAR": {
@@ -2096,35 +2026,10 @@
   },
   "https://ipfsgateway.makersplace.com": {
     "metadata": {
-      "time": "2023-09-29T18:02:06.97858572Z",
+      "time": "2023-10-15T09:17:11.09431242Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://ipfsgateway.makersplace.com"
-    },
-    "results": {
-      "DNSLink": {
-        "pass": 0,
-        "fail": 1,
-        "skip": 0
-      },
-      "CORS": {
-        "pass": 0,
-        "fail": 1,
-        "skip": 0
-      },
-      "JSON-CBOR": {
-        "pass": 0,
-        "fail": 3,
-        "skip": 0
-      }
-    }
-  },
-  "https://jorropo.net": {
-    "metadata": {
-      "time": "2023-09-29T18:02:11.365516443Z",
-      "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
-      "gateway_url": "https://jorropo.net"
     },
     "results": {
       "DNSLink": {
@@ -2146,9 +2051,9 @@
   },
   "https://konubinix.eu": {
     "metadata": {
-      "time": "2023-09-29T18:04:30.497088311Z",
+      "time": "2023-10-15T09:19:45.482519738Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://konubinix.eu"
     },
     "results": {
@@ -2171,9 +2076,9 @@
   },
   "http://natoboram.mynetgear.com:8080": {
     "metadata": {
-      "time": "2023-09-29T17:55:22.768172149Z",
+      "time": "2023-10-15T09:09:54.587670206Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "http://natoboram.mynetgear.com:8080"
     },
     "results": {
@@ -2199,7 +2104,7 @@
       },
       "Others": {
         "pass": 0,
-        "fail": 4,
+        "fail": 6,
         "skip": 0
       },
       "Block-CAR": {
@@ -2226,9 +2131,9 @@
   },
   "https://nftstorage.link": {
     "metadata": {
-      "time": "2023-09-29T18:02:30.082327288Z",
+      "time": "2023-10-15T09:18:18.459220971Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://nftstorage.link"
     },
     "results": {
@@ -2251,9 +2156,9 @@
   },
   "https://ninetailed.ninja": {
     "metadata": {
-      "time": "2023-09-29T18:03:04.397356Z",
+      "time": "2023-10-15T09:18:21.509178266Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://ninetailed.ninja"
     },
     "results": {
@@ -2276,9 +2181,9 @@
   },
   "https://permaweb.eu.org": {
     "metadata": {
-      "time": "2023-09-29T18:02:57.74417796Z",
+      "time": "2023-10-15T09:18:24.815849608Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://permaweb.eu.org"
     },
     "results": {
@@ -2301,9 +2206,9 @@
   },
   "https://permaweb.io": {
     "metadata": {
-      "time": "2023-09-29T18:04:41.291780878Z",
+      "time": "2023-10-15T09:19:16.569715394Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://permaweb.io"
     },
     "results": {
@@ -2329,7 +2234,7 @@
       },
       "Others": {
         "pass": 0,
-        "fail": 4,
+        "fail": 6,
         "skip": 0
       },
       "Block-CAR": {
@@ -2356,9 +2261,9 @@
   },
   "https://ravencoinipfs-gateway.com": {
     "metadata": {
-      "time": "2023-09-29T18:04:25.926333935Z",
+      "time": "2023-10-15T09:20:11.045044263Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://ravencoinipfs-gateway.com"
     },
     "results": {
@@ -2384,7 +2289,7 @@
       },
       "Others": {
         "pass": 0,
-        "fail": 4,
+        "fail": 6,
         "skip": 0
       },
       "Block-CAR": {
@@ -2411,9 +2316,9 @@
   },
   "https://search.ipfsgate.com": {
     "metadata": {
-      "time": "2023-09-29T18:03:49.617210479Z",
+      "time": "2023-10-15T09:19:36.37896608Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://search.ipfsgate.com"
     },
     "results": {
@@ -2439,7 +2344,7 @@
       },
       "Others": {
         "pass": 0,
-        "fail": 4,
+        "fail": 6,
         "skip": 0
       },
       "Block-CAR": {
@@ -2466,9 +2371,9 @@
   },
   "https://storjipfs-gateway.com": {
     "metadata": {
-      "time": "2023-09-29T18:03:26.328842849Z",
+      "time": "2023-10-15T09:19:41.274983215Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://storjipfs-gateway.com"
     },
     "results": {
@@ -2491,9 +2396,9 @@
   },
   "https://storry.tv": {
     "metadata": {
-      "time": "2023-09-29T18:03:25.739232057Z",
+      "time": "2023-10-15T09:19:55.358865252Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://storry.tv"
     },
     "results": {
@@ -2516,9 +2421,9 @@
   },
   "https://tth-ipfs.com": {
     "metadata": {
-      "time": "2023-09-29T18:03:58.377495645Z",
+      "time": "2023-10-15T09:20:19.246198652Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://tth-ipfs.com"
     },
     "results": {
@@ -2541,9 +2446,9 @@
   },
   "https://twdragon.net": {
     "metadata": {
-      "time": "2023-09-29T18:04:06.464924181Z",
+      "time": "2023-10-15T09:20:27.418323085Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://twdragon.net"
     },
     "results": {
@@ -2566,9 +2471,9 @@
   },
   "https://via0.com": {
     "metadata": {
-      "time": "2023-09-29T18:04:24.352335785Z",
+      "time": "2023-10-15T09:20:45.801381925Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://via0.com"
     },
     "results": {
@@ -2591,9 +2496,9 @@
   },
   "https://video.oneloveipfs.com": {
     "metadata": {
-      "time": "2023-09-29T18:04:19.895111678Z",
+      "time": "2023-10-15T09:21:04.179347656Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://video.oneloveipfs.com"
     },
     "results": {
@@ -2616,9 +2521,9 @@
   },
   "https://w3s.link": {
     "metadata": {
-      "time": "2023-09-29T18:04:40.218589645Z",
+      "time": "2023-10-15T09:20:49.779242086Z",
       "version": "dev",
-      "job_url": "https://github.com/laurentsenta/public-gateway-checker/actions/runs/6355261287",
+      "job_url": "https://github.com/vpei/public-gateway-checker/actions/runs/6523158037",
       "gateway_url": "https://w3s.link"
     },
     "results": {
