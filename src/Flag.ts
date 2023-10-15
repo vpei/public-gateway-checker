@@ -1,9 +1,10 @@
-import type { GatewayNode } from './GatewayNode'
-import { Log } from './Log'
-import { lookup as IpfsGeoIpLookup } from 'ipfs-geoip'
-import { UiComponent } from './UiComponent'
 import { TokenBucketLimiter } from '@dutu/rate-limiter'
+import { lookup as IpfsGeoIpLookup } from 'ipfs-geoip'
+import { Log } from './Log'
+import { UiComponent } from './UiComponent'
 import { DEFAULT_IPFS_GATEWAY } from './constants'
+import type { GatewayNode } from './GatewayNode'
+import type { DnsQueryResponse } from './types'
 
 const log = new Log('Flag')
 
@@ -66,12 +67,12 @@ class Flag extends UiComponent {
         if (tokenAvailable) {
           return `https://cloudflare-dns.com/dns-query?name=${this.hostname}&type=A`
         }
-      })
+      }),
     ])
     if (url == null) {
       // No available tokens...
       log.info('we awaited tokens, but could not retrieve any.. restarting dnsRequest')
-      return await this.waitForAvailableEndpoint()
+      return this.waitForAvailableEndpoint()
     } else {
       return url
     }
@@ -82,8 +83,8 @@ class Flag extends UiComponent {
       const response = await fetch(url, {
         method: 'GET',
         headers: {
-          Accept: 'application/dns-json'
-        }
+          Accept: 'application/dns-json',
+        },
       })
       const responseJson = await response.json()
 
@@ -97,7 +98,8 @@ class Flag extends UiComponent {
   async handleDnsQueryResponse (response: DnsQueryResponse): Promise<void> {
     if (response.Answer == null) {
       log.error('Response does not contain the "Answer" property:', response)
-      return this.onError()
+      this.onError()
+      return
     }
     let ip = null
     for (let i = 0; i < response.Answer.length && ip == null; i++) {

@@ -1,7 +1,7 @@
 {
   "name": "@ipfs/public-gateway-checker",
   "private": true,
-  "version": "1.0.0",
+  "version": "1.8.0",
   "description": "Checks which public gateways are online or not",
   "author": "Marcin Rataj <lidel@lidel.org>",
   "license": "Apache-2.0 OR MIT",
@@ -109,30 +109,35 @@
   "scripts": {
     "start": "npm run build && npx -y serve -l 3000 dist",
     "copy-assets": "cp-cli src/index.html dist/index.html && cp-cli src/styles.css dist/styles.css",
-    "lint": "aegir lint",
+    "lint": "aegir lint && npx -y standard && node scripts/beautify.mjs",
+    "lint:fix": "aegir lint --fix && npx -y standard --fix && node scripts/beautify.mjs --fix",
     "release": "aegir release",
-    "build": "aegir build && npm run copy-assets",
+    "sw": "node scripts/build-sw.mjs",
+    "build": "aegir build && npm run copy-assets && npm run sw",
     "test-TBD": "aegir test",
     "test-TBD:node": "aegir test --target node",
     "test-TBD:browser": "aegir test --target browser"
   },
   "dependencies": {
     "@dutu/rate-limiter": "github:dutu/rate-limiter#v1.3.1",
-    "countly-sdk-web": "^22.6.2",
-    "ipfs-http-client": "^58.0.1",
+    "countly-sdk-web": "^23.2.2",
     "url-ponyfill": "^0.5.10"
   },
   "devDependencies": {
-    "aegir": "^37.5.6",
-    "browserslist": "^4.21.4",
+    "aegir": "^40.0.13",
+    "browserslist": "^4.21.9",
     "check-aegir-project": "^1.1.1",
     "cp-cli": "^2.0.0",
-    "eslint-config-ipfs": "^3.1.2",
-    "eslint-plugin-compat": "^4.0.2",
+    "eslint-config-ipfs": "^4.0.3",
+    "eslint-plugin-compat": "^4.1.4",
     "fetch-ponyfill": "^7.1.0",
-    "ipfs": "^0.65.0",
-    "ipfs-geoip": "^9.0.0",
-    "typescript": "^4.8.4"
+    "ipfs-geoip": "^9.0.1",
+    "js-beautify": "^1.14.8",
+    "ts-node": "^10.9.1",
+    "typescript": "^5.1.6",
+    "workbox-build": "7.0.0",
+    "workbox-window": "7.0.0",
+    "zod": "^3.22.2"
   },
   "aegir": {
     "tsRepo": true,

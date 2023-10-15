@@ -1,10 +1,9 @@
 import fetchPonyfill from 'fetch-ponyfill'
-
 import { CheckBase } from './CheckBase'
+import { Log } from './Log'
 import { HASH_TO_TEST, TRUSTLESS_RESPONSE_TYPES } from './constants'
 import type { GatewayNode } from './GatewayNode'
-
-import { Log } from './Log'
+import type { Checkable } from './types'
 
 const { fetch } = fetchPonyfill()
 
@@ -19,7 +18,7 @@ class Trustless extends CheckBase implements Checkable {
 
   async check (): Promise<void> {
     const now = Date.now()
-    const gatewayAndHash = this.parent.gateway.replace(':hash', HASH_TO_TEST)
+    const gatewayAndHash = `${this.parent.gateway}/ipfs/${HASH_TO_TEST}`
     this.parent.tag.classList.add('trustless')
     try {
       const trustlessResponseTypesTests = await Promise.all(TRUSTLESS_RESPONSE_TYPES.map(
@@ -27,7 +26,7 @@ class Trustless extends CheckBase implements Checkable {
           const testUrl = `${gatewayAndHash}?format=${trustlessTypes}&now=${now}#x-ipfs-companion-no-redirect`
           const response = await fetch(testUrl)
           return Boolean(response.headers.get('Content-Type')?.includes(`application/vnd.ipld.${trustlessTypes}`))
-        }
+        },
       ))
 
       const failedTests = TRUSTLESS_RESPONSE_TYPES.filter((_result, idx) => !trustlessResponseTypesTests[idx])
